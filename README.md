@@ -17,8 +17,6 @@ The repo documents my progress throughout the Piscine/Core curriculum while keep
 
 ## Repository Structure
 
-* `shell00` → Basic terminal usage, file permissions, simple scripting
-* `shell01` → More advanced shell commands and scripting fundamentals
 * `C00` → Simple output and syntax basics
 * `C01` → Pointers, arrays, parameter manipulation
 * `C02` → String manipulation
