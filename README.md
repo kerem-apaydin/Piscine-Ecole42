@@ -31,8 +31,8 @@ The repo documents my progress throughout the Piscine/Core curriculum while keep
 Clone the repository:
 
 ```bash
-git clone https://github.com/kerem-apaydin/Piscine-Ecole42.git
-cd 42-exercises
+git clone https://github.com/kerem-apaydin/Piscine-Ecole42.git "folder_name"
+cd "folder_name"
 ```
 
 Compile any C file manually:
@@ -46,7 +46,7 @@ cc file.c -Wall -Wextra -Werror
 This repository exists to:
 
 * Track my 42 School learning path
-* Practice clean, efficient C and shell usage
+* Practice clean, efficient C
 * Build a foundation for bigger Core projects
 
 ---
